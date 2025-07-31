@@ -52,5 +52,6 @@ for q in questions:
     )
     raw_output = llm.invoke(strict_q)
     final_answer = extract_final_answer(raw_output)
+    print("\n" + "=" * 100)
     print(f"\n => User: {q}")
     print("Agent answer:\n", final_answer)

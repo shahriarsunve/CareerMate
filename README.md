@@ -1,4 +1,4 @@
-# CareerMate_AI
+# CareerMate
 
 CareerMate_AI is an agent-powered assistant for career guidance using LangChain and Ollama.
 
